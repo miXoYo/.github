@@ -2,8 +2,7 @@
 <br/>
 <div align="left">这句话一直写在我C++笔记本的扉页上。
   <br/>每当我对前路迷茫的时候，就会翻开扉页，看着这段文字淡淡的笔迹发一会儿呆，然后就渐渐释然了。
-  <br/>今天我把它留在自己的
-  <a href=https://blog.csdn.net/poem_qianmo/article/details/7563469>博客</a>里，希望它也能帮助到那些迷茫的朋友们。
+  <br/>今天我把它留在自己的<a href=https://blog.csdn.net/poem_qianmo/article/details/7563469>博客</a>里，希望它也能帮助到那些迷茫的朋友们。
   <br/>
   <br/></div>
 <div align="center">
